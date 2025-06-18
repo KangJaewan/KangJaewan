@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 📊 GitHub Stats
+## 📊
 
 ![KangJaewan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangJaewan&show_icons=true&theme=radical)  
 
